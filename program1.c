@@ -3,7 +3,8 @@
 void main()
 {
      int nummber = 0;
-     printf("you like number : ")
+     printf("You like number : ")
      scanf("%d",&number);
-     printf("number is %d\n");
+     printf("Your number is %d\n");
+
 }
