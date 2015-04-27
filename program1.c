@@ -2,10 +2,9 @@
 
 void main()
 {
-  int number = 0;
-  printf("You like number : ");
-  scanf("%d",&number);
-  printf("Your number is %d\n");
-     
-}
+     int nummber = 0;
+     printf("What number do you like number : ")
+     scanf("%d",&number);
+     printf("OK, Your number is %d\n");
 
+}
