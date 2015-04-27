@@ -3,9 +3,9 @@
 void main()
 {
   int number = 0;
-  printf("You like number : ");
+  printf("Your number do you like number ei ei: ");
   scanf("%d",&number);
-  printf("Your number is %d\n");
+  printf("Number is %d and you like it.\n");
      
 }
 
