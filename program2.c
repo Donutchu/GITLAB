@@ -2,9 +2,12 @@
 
 void main()
 {
-   for(int i=0;i<10;i++)  
+   for(int i=0;i<10;i++)
    {
-           printf("donut and looktan\n");
+        if((i%2) != 0)
+            printf("donut\n");
+        else
+            printf("looktan\n");
    }
-     
+
 }
